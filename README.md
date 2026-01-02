@@ -84,3 +84,6 @@ Webhookイベントの受信を希望する場合は、エンドポイントのU
 - npm run sp
 - npm run start-pm2
 - npm i && npm i -g pm2 && pm2 start ecosystem.config.js
+
+## コードをコピーして使用する場合
+このリポジトリのリンクを貼るなどで、そやーなが作ったことを明記してください。
